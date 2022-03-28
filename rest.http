@@ -1,0 +1,4 @@
+### get google home page
+GET https://google.com
+Accept: application/text
+Content-Type: application/json
